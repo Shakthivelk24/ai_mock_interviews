@@ -32,3 +32,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+### 💡 Team
+Developed by a 2-member team focused on improving college student in Placements  through smart, accessible technology.
+- **Revanth Kumar T S** – [Revanth-alt](https://github.com/Revanth-alt)
+- **Shakthivel K** – [Shakthivelk24](https://github.com/Shakthivelk24)
